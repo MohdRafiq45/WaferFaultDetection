@@ -6,7 +6,7 @@ from sklearn.metrics  import roc_auc_score,accuracy_score
 class Model_Finder:
     """
                 This class shall  be used to find the model with best accuracy and AUC score.
-                Written By: MAJOR_PROJ
+                Written By: Mohammed Rafiq
                 Version: 1.0
                 Revisions: None
 
@@ -26,7 +26,7 @@ class Model_Finder:
                                 Output: The model with the best parameters
                                 On Failure: Raise Exception
 
-                                Written By: MAJOR_PROJ
+                                Written By: Mohammed Rafiq
                                 Version: 1.0
                                 Revisions: None
 
@@ -69,12 +69,12 @@ class Model_Finder:
 
         """
                                         Method Name: get_best_params_for_xgboost
-                                        Description: get the parameters for XGBoost Algorithm which give the best accuracy.
+                                        Description: get the parameters for XGBoost  Algorithm which give the best accuracy.
                                                      Use Hyper Parameter Tuning.
                                         Output: The model with the best parameters
                                         On Failure: Raise Exception
 
-                                        Written By: MAJOR_PROJ
+                                        Written By: Mohammed Rafiq
                                         Version: 1.0
                                         Revisions: None
 
@@ -124,7 +124,7 @@ class Model_Finder:
                                                 Output: The best model name and the model object
                                                 On Failure: Raise Exception
 
-                                                Written By: MAJOR_PROJ
+                                                Written By: Mohammed Rafiq
                                                 Version: 1.0
                                                 Revisions: None
 
