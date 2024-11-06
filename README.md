@@ -4,11 +4,6 @@
 
 An end-to-end machine learning project for detecting faults in wafer sensor
 
-[![GitHub license](./Readme_Assets/license-MIT-green.svg)](./LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/kannanjayachandran/Wafers-Fault-Detection?style=social)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
-[![GitHub stars](https://img.shields.io/github/stars/kannanjayachandran/Wafers-Fault-Detection?style=social)](https://github.com/kannanjayachandran/Wafers-Fault-Detection/stargazers/)
-
-<img src="./Readme_Assets/semi.png" width="200" height="200">
 
 </div>
 
